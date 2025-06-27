@@ -1,2 +1,2 @@
 # Bootcamp_Ciencia_de_Datos_Explicado
-Notebooks explicativos para aprender ciencia de datos, con ejemplos claros, datasets conocidos y un enfoque motivador.
+Este repositorio reúne notebooks creados durante y después de mi paso por un bootcamp de ciencia de datos.
